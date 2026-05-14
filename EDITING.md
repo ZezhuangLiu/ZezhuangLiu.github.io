@@ -14,7 +14,7 @@ This site is a static GitHub Pages homepage.
 - Change the homepage title: edit the `<h1>` text in `index.html`.
 - Change Research Focus: edit the `<h2>Research Focus</h2>` section in `index.html`.
 - Replace English CV: copy the new PDF to `assets/cv-zezhuang-liu.pdf`.
-- Replace Chinese CV: copy the new file to `assets/cv-zezhuang-liu-cn.docx`, or update the link in `index.html` if you prefer PDF.
+- Replace Chinese CV: copy the new PDF to `assets/cv-zezhuang-liu-cn.pdf`.
 - Replace photo: copy the new image to `assets/zezhuang-liu.jpg`.
 
 ## Publish Changes
